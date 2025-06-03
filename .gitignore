@@ -4,3 +4,4 @@ test_set/
 #ignore zip files
 *.zip
 # Ignore the model files
+model/
