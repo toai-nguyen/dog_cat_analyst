@@ -1,0 +1,6 @@
+# Ignore the training and test set folder
+training_set/
+test_set/
+#ignore zip files
+*.zip
+# Ignore the model files
